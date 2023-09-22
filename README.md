@@ -1,6 +1,5 @@
 # Business-and-AI
 
-Question 1: (6 points)
 Problem statement
 You work for a startup, and your CEO/founder thinks the next big thing is peer-to-peer car sharing.  She believes that with cars spending 90% of their life in a garage or parked on the street people will be interested in renting them to make some extra cash.  She wants you to investigate the idea and develop a proposal for a peer-to-peer car sharing application.  The proposal should include a recommendation for the design of the application, potential applications of AI, the value proposition, and the business model.
 Deliverables
